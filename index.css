@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.form{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: grid;
+    place-items: center;
+    margin: 20vh 65vh;
+    padding: 20px;
+    border-radius: 10px;
+   
+}
+.opera{
+    margin-top: 20px;
+    padding: 6px;
+}
+
+.oper .Add, .Minus, .Multiply, .Divide{
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+
+.firstnum{
+    display: block;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.secondnum{
+    display: block;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.ans{
+   font-size: 50px;
+}
+
